@@ -76,3 +76,11 @@ source 'https://rails-assets.org' do
 end
 
 gem 'devise'
+
+gem 'carrierwave', '~> 1.0'
+
+gem 'simple_form'
+
+gem 'figaro'
+
+gem "fog-aws"
